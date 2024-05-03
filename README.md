@@ -14,7 +14,7 @@ To run this project, you will need Python 3.8+ and the following libraries:
 - sklearn
 
 Install the required packages using the following command:
-
+```shell
 pip install transformers torch numpy pandas sklearn
 
 
